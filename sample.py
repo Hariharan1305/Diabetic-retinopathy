@@ -1,3 +1,3 @@
 a = 1
-c = 1
-print(a + c)
+b = 1
+print(a + b)
